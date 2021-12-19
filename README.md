@@ -1,6 +1,8 @@
 # OOP_2bar-oria 
 
-# Design and implementation of directed and weighted graphs  ![This is an image](https://user-images.githubusercontent.com/92825016/145035678-cd125e45-64d7-4055-91bb-646ddfbf99ba.png)  
+# Design and implementation of directed and weighted graphs 
+
+![This is an image](https://user-images.githubusercontent.com/92825016/145035678-cd125e45-64d7-4055-91bb-646ddfbf99ba.png)  
 
 ## Getting Started
 **libraries:**
