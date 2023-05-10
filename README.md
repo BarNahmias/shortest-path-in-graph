@@ -1,4 +1,4 @@
-# OOP_2bar-oria 
+# OOP shortest path in graph 
 
 # Design and implementation of directed and weighted graphs 
 
